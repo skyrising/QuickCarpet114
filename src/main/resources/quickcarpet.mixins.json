@@ -32,7 +32,8 @@
     "MixinFloatingIslandsChunkGenerator",
     "ICustomPayloadC2SPacket",
     "MixinServerPlayNetworkHandler",
-    "MixinThreadedAnvilChunkStorage"
+    "MixinThreadedAnvilChunkStorage",
+    "MixinPatrolEntity"
   ],
   "client": [
     "MixinIntegratedServer",
